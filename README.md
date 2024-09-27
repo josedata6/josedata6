@@ -3,7 +3,7 @@
 - 📊 I’m currently working on the MS in Business Analytics at CSUN 🌇
 - 🌱 I’m currently learning data science with python 🐍
 - 👯 I’m looking to collaborate on on cutting-edge data analysis and machine learning models.
-- 🤔 I’m looking for help with taming wild data with python
+- 🤔 I’m looking for help with taming wild data using python 🐍
 - 💬 Ask me about 🥑
 - 📫 How to reach me: jose.diaz@csun.edu
 - 😄 Pronouns: he
