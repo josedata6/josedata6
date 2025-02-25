@@ -1,4 +1,4 @@
-## Hi there Jose Here 👋
+## Hi there Jose here 👋
 
 - 📊 I’m currently working on the MS in Business Analytics at CSUN 🌇
 - 🌱 I’m currently learning data science with python 🐍
@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with taming wild data using python 🐍
 - 💬 <a href="https://clubavo.com/" target="_blank">Ask me about 🥑</a>
 - 📫 How to reach me: jose.diaz@csun.edu
-- 😄 Pronouns: he
+- 🤠 Pronouns: he
 - ⚡ Education: BS in Business Info Systems from Chico State 🐱
 
 <!--
