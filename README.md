@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning data science with python 🐍
 - 👯 I’m looking to collaborate on cutting-edge data analysis and machine learning models.
 - 🤔 I’m looking for help with taming wild data using python 🐍
-- 💬 <a href="https://clubavo.com/" target="_blank">Ask me about 🥑</a>
+- 💬 Ask me about 🥑
 - 📫 How to reach me: jose.diaz@csun.edu
 - 🤠 Pronouns: he
 - ⚡ Education: BS in Business Info Systems from Chico State 🐱
