@@ -1,4 +1,4 @@
-## 👋 Hi there Jose here 🤠
+## 👋 Hi there <a href="https://www.linkedin.com/in/jdata/">Jose</a> here 🤠
 
 - 📊 I’m currently working on the <a target="_blank" href="https://www.csun.edu/som/master-science-business-analytics">MS in Business Analytics at CSUN</a> 🌇
 - 🌱 I’m currently learning data science 🐍
