@@ -1,7 +1,7 @@
 ## Hi there Jose here 👋
 
 - 📊 I’m currently working on the MS in Business Analytics at CSUN 🌇
-- 🌱 I’m currently learning data science with python 🐍
+- 🌱 I’m currently learning data science 🐍
 - 👯 I’m looking to collaborate on cutting-edge data analysis and machine learning models.
 - 🤔 I’m looking for help with taming wild data using python 🐍
 - 💬 Ask me about 🥑
