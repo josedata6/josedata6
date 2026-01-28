@@ -1,6 +1,6 @@
 ## 👋 Hi there Jose here 🤠
 
-- 📊 I’m currently working on the MS in Business Analytics at <a target="_blank" href="https://www.csun.edu/">CSUN</a> 🌇
+- 📊 I’m currently working on the <a target="_blank" href="https://www.csun.edu/som/master-science-business-analytics">MS in Business Analytics at CSUN</a> 🌇
 - 🌱 I’m currently learning data science 🐍
 - 👯 I’m looking to collaborate on cutting-edge data analysis and machine learning models.
 - 🤔 I’m looking for help taming wild data using python 🐍
